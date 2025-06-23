@@ -1,0 +1,2 @@
+#!/bin/bash
+getfac1 olleh| setfac1 --set-file=- hello 
